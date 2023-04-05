@@ -23,3 +23,4 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <a href="https://github.com/HenriqueDST/github-stats">
 <img src="https://github.com/HenriqueDST/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/HenriqueDST/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+![snake animation](https://github.com/HenriqueDST)
